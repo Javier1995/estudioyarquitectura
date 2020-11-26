@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAKA,AAAA,CAAC,AAAA,CACG,MAAM,CAAC,CAAC,CACR,OAAO,CAAC,CAAC,CACT,UAAU,CAAE,UAAU,CACzB,AAED,AAAA,UAAU,AAAC,CACP,KAAK,CAAE,GAAG,CACV,MAAM,CAAE,IAAI,CACf,AAED,AAAA,MAAM,AAAC,CACH,KAAK,CAAE,IAAI,CACX,gBAAgB,CAAE,OAAO,CAC5B",
+    "sources": [
+        "../scss/boostrap.scss"
+    ],
+    "names": [],
+    "file": "boostrap.min.css"
+}
